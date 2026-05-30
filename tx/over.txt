@@ -1,0 +1,77 @@
+Foydalanuvchi ismini olib ekranga chiqarish.
+Ikki son olib yig'indisini chiqarish.
+Sonning kvadratini chiqarish.
+Ikki sondan kattasini topish.
+Uch sondan eng kattasini topish.
+1 dan 10 gacha sonlarni chiqarish (for bilan).
+1 dan N gacha sonlar yig'indisini topish.
+String uzunligini topish.
+Berilgan matnda nechta unli harf borligini topish.
+Stringni teskari chiqarish.
+Ro'yxatdagi eng katta sonni topish.
+Ro'yxatdagi sonlar yig'indisini topish.
+Foydalanuvchi kiritgan sonning ko'paytirish jadvalini chiqarish.
+Ikki string bir xilmi tekshirish.
+Foydalanuvchi kiritgan matnda nechta so'z borligini topish.
+Student klassi - Object
+Car klassi - Object
+BankAccount klassi - Object
+Talabaning bahosi 60 dan yuqori bo'lsa "Passed" chiqar.
+Ism uzunligi nechta harfdan iboratligini top.
+Matn bo'sh yoki bo'sh emasligini tekshir.
+Ro'yxatdagi elementlar sonini top.
+Ro'yxatdagi eng katta sonni top.
+Ro'yxatdagi eng kichik sonni top.
+Sonning oxirgi raqamini top.
+Sonning birinchi raqamini top.
+Son 10 va 50 oralig'idami?
+Foydalanuvchi yoshi 18 dan katta bo'lsa ruxsat ber.
+
+
+
+Real ish
+
+Ombordagi mahsulot
+Taksi narxini hisoblash
+Elektr energiyasi hisobi
+Ishchining maoshi
+Kredit to'lovi
+Avtomobil yoqilg'i sarfi
+JSON Database Studentlarni: students.json fayliga yozish Restart bo'lsa ham ma'lumot yo'qolmasin.
+
+
+
+
+real login miollaer
+
+3 ta son berilgan, eng kattasini top.
+Son juftmi yoki toqmi aniqla.
+Son 3 ga ham, 5 ga ham bo'linadimi tekshir.
+4 ta son ichidan ikkinchi eng kattasini top.
+Berilgan yil kabisa yili ekanligini aniqla.
+Uchburchak tomonlari berilgan, uchburchak hosil bo'ladimi?
+Son musbat, manfiy yoki nol ekanligini aniqla.
+Ikki sonning EKUBini top.
+Ikki sonning EKUKini top.
+Sonning barcha raqamlari yig'indisini top.
+Sonning barcha raqamlari ko'paytmasini top.
+Son palindrom ekanligini aniqla.
+Matndagi unli harflar sonini top.
+Matndagi eng uzun so'zni top.
+Ro'yxatdagi takrorlangan elementlarni top.
+Ro'yxatdagi eng kichik son indeksini top.
+Foydalanuvchi yoshiga qarab kategoriya chiqar.
+Baholardan o'rtacha ballni hisobla.
+Pul miqdoriga qarab nechta mahsulot olish mumkinligini top.
+Lift 3-qavatdan 17-qavatga chiqsa nechta qavat yurganini top.
+Avtomobil tezligi va vaqtiga qarab masofani hisobla.
+Ombordagi mahsulot tugagan-tugamaganini aniqla.
+Login 3 marta noto'g'ri kiritilsa blokla.
+Ikki sana orasidagi kunlar sonini hisobla.
+Ro'yxatdagi faqat juft sonlarni ajratib ol.
+Berilgan son Fibonacci sonimi aniqla.
+Matnda eng ko'p qatnashgan harfni top.
+Bank hisobidan pul yechish mumkinmi tekshir.
+Berilgan narxga chegirma qo'llab yakuniy narxni hisobla.
+100 ta mahsulot ichida eng qimmat va eng arzon mahsulotni top.
+
